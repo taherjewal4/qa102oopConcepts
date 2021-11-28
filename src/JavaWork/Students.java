@@ -1,3 +1,5 @@
+package JavaWork;
+
 public class Students { //box
 
     private String name;

@@ -1,3 +1,5 @@
+package JavaWork;
+
 public class Home {
 
 
@@ -5,8 +7,8 @@ public class Home {
     // non static
 
 
-    static String name;
-    static String address;
+   public static String name;
+   public static String address;
 
 
     public static void getName(){
