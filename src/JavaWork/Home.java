@@ -16,6 +16,7 @@ public class Home {
     }
 
     public void getAddress(){
+        System.out.println("Hello");
         System.out.println(address);
     }
 }
